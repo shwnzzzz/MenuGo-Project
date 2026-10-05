@@ -4,7 +4,7 @@ Uma aplicação web responsiva com tema do restaurante indicado, construída com
 
 ## 🌐 Visualize o projeto:
 
-**[Ver Projeto Online]("(https://github.com/shwnzzzz/MenuGo-Project.git)")**
+**[Ver Projeto Online]("https://github.com/shwnzzzz/MenuGo-Project.git")**
 
 ## 🛠️ Tecnologias Utilizadas
 
