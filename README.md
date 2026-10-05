@@ -1,4 +1,4 @@
-# 🍔 MenuGo - Projeto de Cardápio digital e pedidos online
+# 🍔 MenuGo - Projeto de Cardápio digital.
 
 Uma aplicação web responsiva com tema do restaurante indicado, construída com HTML5, CSS3 e JavaScript. Este projeto apresenta um design limpo com animações suaves, interface simples e navegação intuitiva.
 
